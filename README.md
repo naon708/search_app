@@ -68,3 +68,6 @@ YouTubeのバレエ動画視聴において、
 - 本番リリース：2/27
 - 追加機能実装：2/27 〜
 - Done：3/31
+
+### 画面遷移図
+https://xd.adobe.com/view/e8b2f502-0be6-419a-9e62-1b2a7b6c1a03-bde1/
