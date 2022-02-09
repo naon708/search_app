@@ -70,4 +70,4 @@ YouTubeのバレエ動画視聴において、
 - Done：3/31
 
 ### 画面遷移図
-https://xd.adobe.com/view/e8b2f502-0be6-419a-9e62-1b2a7b6c1a03-bde1/
+https://xd.adobe.com/view/880e6d5b-ad06-4ae2-b8b9-b6180215fd58-dd5d/
